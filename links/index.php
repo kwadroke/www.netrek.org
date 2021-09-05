@@ -29,7 +29,7 @@ echo "</div>\n\n<div id=\"content\">";
 	Netrek Startpage</a> - Netrek in Dutch.
 	</li>
 
-	<a href="http://www.coe.uncc.edu/~drh/NetrekTshirt.html">Netrek T-Shirt Offer</a> - Picture 
+	<a href="https://web.archive.org/web/20050212094701/http://www.coe.uncc.edu/~drh/NetrekTshirt.htmll">Netrek T-Shirt Offer</a> - Picture 
 	of the old Netrek T-shirt from '96. It is no longer available, but 
 	there is a snapshot of the shirt.
 	</li>
@@ -65,7 +65,7 @@ The following are miscellaneous Netrek related links.
 	</li> -->
 
 <li>    <A href="http://www.playnetrek.org">PlayNetrek.org</a> - 
-	The home of the Netrek <a href="http://www.playnetrek.org/smf/">web forums</a>, client downloads and flash tutorials,
+	The home of <!-- the Netrek <a href="http://www.playnetrek.org/smf/">web forums</a>,--> client downloads and flash tutorials,
         and other trekish goodness.
 
 <li>    <A href="http://wiki.netrek.org">The Netrek Wiki</a> - 

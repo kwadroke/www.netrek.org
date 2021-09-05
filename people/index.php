@@ -57,9 +57,9 @@ questions. Get in touch!
 	home page before posting.
 	</li>
 
-        <li>
+        <!-- <li>
         There are <a href="http://www.playnetrek.org/smf/">webforums over at playnetrek.org</a>.
-        </li>
+        </li> -->
 
         <li>
         We've got mailing lists, too. <br><br>
